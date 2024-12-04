@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cb27012-03d9-468b-b27e-c3e45495ad9d" name="Changes" comment="задача_эспрессо">
-      <change afterPath="$PROJECT_DIR$/main.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addEditCoffeeForm.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/coffee.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/main.ui" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733286520318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задача_эспрессо">
+      <option name="closed" value="true" />
+      <created>1733286593704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733286593704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="задача_эспрессо">
+      <option name="closed" value="true" />
+      <created>1733286733783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733286733783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
