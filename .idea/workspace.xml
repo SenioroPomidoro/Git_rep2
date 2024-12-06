@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb27012-03d9-468b-b27e-c3e45495ad9d" name="Changes" comment="задача_эспрессо">
-      <change afterPath="$PROJECT_DIR$/addEditCoffeeForm.ui" afterDir="false" />
+    <list default="true" id="4cb27012-03d9-468b-b27e-c3e45495ad9d" name="Changes" comment="задача_капучино">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffee.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/coffee.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addEditCoffeeForm.ui" beforeDir="false" afterPath="$PROJECT_DIR$/UI/addEditCoffeeForm.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/data/coffee.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/main.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/UI/main.ui" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,27 +26,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pjdazbU6hjvXvGA1GTMojnmWWA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/maxim/Prog/Python/projects/GitProject_4",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maxim/Prog/Python/projects/GitProject_4&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UI" />
+      <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
   <component name="RunManager">
@@ -118,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733286733783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="задача_капучино">
+      <option name="closed" value="true" />
+      <created>1733295321132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733295321132</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="задача_эспрессо" />
-    <option name="LAST_COMMIT_MESSAGE" value="задача_эспрессо" />
+    <MESSAGE value="задача_капучино" />
+    <option name="LAST_COMMIT_MESSAGE" value="задача_капучино" />
   </component>
 </project>
